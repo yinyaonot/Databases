@@ -1,4 +1,6 @@
 {
     	NAME: 'root',
-	PASSWORD:'root'
+	PASSWORD:'root',
+	HOST:'local host',
+	PORT:'3306',
 }
